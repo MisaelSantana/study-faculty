@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<Style>
+html {
+scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    font-family: 'Fjalla One', sans-serif;
+}
+footer {
+    background-color: aqua;
+    padding: 30px;
+    color: black;
+}
+#TopMenu {
+    display: flex;
+    background-color: aqua;
+    margin: 0;
+}
+#TopMenu li {
+    color:black;
+    text-decoration: nome;
+    display: block;
+    padding: 15px;
+}
+#TopMenu li:first-child{
+    margin-right: auto;
+}
+.seaction1 {
+    display:flex;
+    height: 100vh;
+    background-color: aquamarine;
+}
+.centralize {
+    margin: auto;
+    text-align: center;
+}
+.MinhaImagem {
+    width: 15vw;
+    height: 15vw;
+    padding-left: 15px;
+}
+.Botão {
+    background-color: aqua;
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+    font-family: 'Fjalla One', sans-serif;
+}
+</Style>
+<body>
+    <nav>
+        <ul id="TopMenu">
+            <li>Portfólio</li>
+            <li>Home</li>
+            <li>Projetos</li>
+            <li>Contato</li>
+        </ul>
+    </nav>
+    <div class="section1">
+        <div class="centralize">
+            <h1>Misael Santana</h1>
+            <a href=""><button class="Botão"> Dados Pessoais</button></a>
+        </div>
+    </div>
+    <div id="Projetos" class="seaction2">
+        <table class="centralize">
+            <tr>
+                <td style="width:40%"><img class="MinhaImagem"src="https://lh3.googleusercontent.com/pBbayXjZqlOYJ4KPTIxfUrhmvR74OAtqgDzW3fFqW60MgtYiIcR4zWZiRYeBOQgvlrx6MQ=s85" alt=""></td>
+                <td style="width:60%; text-align: left;">
+                    <ul>
+                    DADOS PESSOAIS
+                    <hr>
+                    <li>NOME: MISAEL SANTANA</li>
+                    <li>IDADE: 19 ANOS</li>
+                    <li>GENERO: MASCULINO</li>
+                    <li>ENDEREÇO: RUA DILSON FUNARO N°576</li>
+                    <li>CELULAR: +55(47)98840-1086</li>
+                </ul></td>
+            </tr>
+        </table>
+    </div>
+    <div id="Projetos" class="seaction2">
+        <table class="centralize">
+            <tr>
+                <td style="width:40%"><img class="MinhaImagem"src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/30/91/25/30912567-82c1-ab9f-f0f2-0a782cbac9c7/source/512x512bb.jpg" alt=""></td>
+                <td style="width:60%; text-align: left;">
+                    <ul>
+                    FORMAÇÃO ACADÉMICA
+                    <hr>
+                    <li>NOME DA ISTITUIÇÃO: BOM JESUS/IELUSC</li>
+                    <li>PERÍODO DE DURAÇÃO: 3 ANOS</li>
+                    <li>GRAU DO ENSINO: TECNÓLOGO</li>
+                    <li>SITUAÇÃO: CURSANDO 1°SEMESTRE</li>
+                    <li>ENDEREÇO: UNIDADE CENTRO</li>
+                </ul></td>
+            </tr>
+        </table>
+    </div>
+    <hr>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, molestiae ad! Explicabo delectus possimus magni labore officiis odit placeat ab, quo alias neque deleniti culpa ipsum. Tempore facere possimus consequatur.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, molestiae ad! Explicabo delectus possimus magni labore officiis odit placeat ab, quo alias neque deleniti culpa ipsum. Tempore facere possimus consequatur.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, molestiae ad! Explicabo delectus possimus magni labore officiis odit placeat ab, quo alias neque deleniti culpa ipsum. Tempore facere possimus consequatur.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, molestiae ad! Explicabo delectus possimus magni labore officiis odit placeat ab, quo alias neque deleniti culpa ipsum. Tempore facere possimus consequatur.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, molestiae ad! Explicabo delectus possimus magni labore officiis odit placeat ab, quo alias neque deleniti culpa ipsum. Tempore facere possimus consequatur.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, molestiae ad! Explicabo delectus possimus magni labore officiis odit placeat ab, quo alias neque deleniti culpa ipsum. Tempore facere possimus consequatur.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, molestiae ad! Explicabo delectus possimus magni labore officiis odit placeat ab, quo alias neque deleniti culpa ipsum. Tempore facere possimus consequatur.
+
+    <footer>
+        <h5 class="centralize">@CRIADO POR MISAEL SANTANA</h5>
+    </footer>
+</body>
+</html>

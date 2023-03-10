@@ -1,0 +1,151 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.mybody {
+    background-color: #2C3E50;  
+}
+
+.navbar-default {
+    background-color: #E85647;
+    border-color: #E85647;
+}
+
+.navbar-default .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-nav {
+    float: left;
+    margin: 6px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #ffffff;
+}
+
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.mycontainer {
+    display: flex;
+}
+
+.thumbnail {
+    display: block;
+    padding: 10px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: transparent;
+    border: 0px;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+
+.justify-text {
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.caption h3 {
+    color: #E85647;
+}
+
+.col-md-8 {
+    max-width: 65%;
+    margin: 0 auto;
+}
+
+.col-md-8 h1 {
+    color: #ffffff;
+}
+
+.biography {
+    display: flex;
+    justify-content: space-between;
+    color: #E85647;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 15px;
+}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.textbio {
+    max-width: 100%;
+    margin: solid 1px white;
+}
+
+.discography {
+    max-width: 100%;
+    color: #E85647;
+}
+
+.media {
+    background-color: #ffffff;
+    padding: 20px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    border-radius: 7px;
+    margin-bottom: 20px;
+}
+
+.divsad {
+    width: 80%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.media-middle {
+    vertical-align: middle;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+.media-body {
+    color: black;
+    flex-direction: column;
+    padding-left: 15px;
+    flex-wrap: wrap;
+    max-width: 300px;
+}
+
+.iconalbum {
+    max-width: 100px;
+    flex-direction: column;
+    margin: 10px;
+    padding: 5px;
+}

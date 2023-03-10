@@ -1,0 +1,390 @@
+.body {
+    background-color: #1C2230;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.nav {
+    font-size: 15px;
+    color: whitesmoke;
+    float: right;
+    padding-right: 60px;
+    padding-top: 70px;
+}
+
+.logo {
+    width: 176px;
+    height: 52px;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.imgintro {
+    text-align: center;
+    margin-top:  95px;
+}
+
+.textintro {
+    color: #FEFEFE;
+    font-size: 40px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.textintro2 {
+    color: #FBFEFE;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 55px;
+}
+
+.divbutton {
+    color: white;
+    width: 280px;
+    height: 55px;
+    margin-top: 37px;
+    background: -webkit-gradient(linear, left top, right top, from(#5BC6CC), to(#3AADCF)) no-repeat;
+    border: 1px;
+    border-radius: 50px;
+    margin-left: 650px;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 4px;
+}
+
+.icon1 {
+    width: 83px;
+    height: 78;
+    margin-left: 420px;
+    margin-top: 170px;
+}
+
+.texticontittle1 {
+    font-size: 30px;
+    color: white;
+    margin-left: -200px;
+    text-align: center;
+}
+.texticontittle2 {
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    position: absolute;
+    left: 280px;
+}
+
+.icon11 {
+    width: 70px;
+    height: 88;
+    margin-left: 935px;
+    margin-top: 170px;
+    position: absolute;
+    left: 180px;
+    top: 1140px;
+}
+
+.texticontittle11 {
+    font-size: 30px;
+    color: white;
+    margin-left: 400px;
+    position: absolute;
+    left: 610px;
+    top: 1430px;
+    text-align: center;
+}
+.texticontittle22 {
+    font-size: 18px;
+    color: white;
+    margin-left: 280px;
+    position: absolute;
+    left: 650px;
+    top: 1470px;
+    text-align: center;
+}
+
+.icon111 {
+    width: 86px; 
+    height: 71px; 
+    margin-left: 420px;
+    margin-top: 170px;
+}
+
+.texticontittle111 {
+    font-size: 30px;
+    color: white;
+    margin-left: 200px;
+    text-align: center;
+    position: absolute;
+    left: 113px;
+    top: 1740px;
+}
+.texticontittle222 {
+    font-size: 18px;
+    color: white;
+    margin-left: 280px;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    top: 1780px;
+}
+
+.icon1111 {
+    width: 91px;
+    height: 64px;
+    margin-left: 420px;
+    margin-top: 170px;
+    position: absolute;
+    top: 1480px;
+    left: 685px;
+}
+
+.texticontittle1111 {
+    font-size: 30px;
+    color: white;
+    margin-left: 200px;
+    text-align: center;
+    position: absolute;
+    left: 810px;
+    top: 1740px;
+}
+.texticontittle2222 {
+    font-size: 18px;
+    color: white;
+    margin-left: 280px;
+    text-align: center;
+    position: absolute;
+    left: 650px;
+    top: 1780px;
+}
+
+.imgstay {
+    margin-top: 350px;
+    margin-left: 120px;
+}
+
+.textstay {
+    font-size: 50px;
+    color: White;
+    position: absolute;
+    top: 2150px;
+    left: 780px;
+}
+
+.textstay1 {
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 2320px;
+    left: 780px;
+}
+
+.textstay11 {
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 2380px;
+    left: 780px;
+}
+
+.textlinkstay {
+    font-size: 18px;
+    color: #62E0D9;
+    position: absolute;
+    top: 2460px;
+    left: 780px;
+    text-decoration: underline;
+}
+
+.iconarrow {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 2483px;
+    left: 937px;
+
+}
+
+.div1 {
+    width: 365px;
+    height: 200px;
+    background-color: #21293C;
+    position: absolute;
+    top: 2700px;
+    left: 150px;
+}
+.div2 {
+    width: 365px;
+    height: 200px;
+    background-color: #21293C;
+    position: absolute;
+    top: 2700px;
+    left: 600px;
+}
+.div3 {
+    width: 365px;
+    height: 200px;
+    background-color: #21293C;
+    position: absolute;
+    top: 2700px;
+    left:1050px;
+}
+
+.textdiv {
+    color: white;
+    font-size: 15px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+.fotodiv {
+    border-radius: 50%;
+    width: 40px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.textfoto1 {
+    font-size: 13px;
+    color: white;
+    position: absolute;
+    left: 80px;
+    top: 148px;
+}
+.textfoto2 {
+    font-size: 10px;
+    color: white;
+    position: absolute;
+    left: 80px;
+    top: 160px;
+    opacity: 0.5;
+}
+
+.divask {
+    background-color: #21293C;
+    width: 1000px;
+    height: 330px;
+    position: absolute;
+    top: 3000px;
+    left:310px;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.textask {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.digite {
+    border-radius: 20px;
+    height: 43px;
+    width: 500px;
+    position: absolute;
+    top: 3240px;
+    left: 400px;
+    z-index: 2;
+}
+
+.ub {
+    background-color: #4EC6D4;
+    font-size: 10px;
+    text-align: center;
+    height: 45px;
+    width: 270px;
+    position: absolute;
+    top: 3240px;
+    left: 950px;
+    border-radius: 20px;
+    color: white;
+    margin-top: 3px;
+    padding-bottom: 1px;
+    z-index: 2;
+}
+
+.footer {
+    height: 515px;
+    width: 1630px;
+    background-color: #0C1524;
+    position: absolute;
+    top: 3200px;
+    left: 0px;
+}
+
+.logoend {
+    margin-top: 220px;
+    margin-left: 120px;
+}
+
+.lorem {
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 290px;
+    left: 180px;
+}
+
+.iconloca {
+    width: 13px; 
+    height: 18px;
+    position: absolute;
+    top: 320px;
+    left: 148px; 
+}
+
+.iconphone {
+    width: 18px; 
+    height: 18px;
+    position: absolute;
+    top: 310px;
+    left: 630px;
+}
+
+.textphone {
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 289px;
+    left: 675px;
+}
+
+.iconemail {
+    width: 20px; 
+    height: 16px;
+    position: absolute;
+    top: 355px;
+    left: 630px;
+}
+
+.textemail {
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 331px;
+    left: 675px;
+}
+
+.listfooter {
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 290px;
+    left: 950px;
+}
+
+.listfooter2 {
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 290px;
+    left: 1110px;
+}
+
+.diviconfooter {
+
+}
+
+.aspas {
+    position: absolute;
+    top: 2663px;
+    left: 138px;
+}

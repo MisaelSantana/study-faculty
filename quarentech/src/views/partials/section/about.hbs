@@ -1,0 +1,51 @@
+<section class="about" id="about">
+    <div class="wrapper">
+        <div class="row">
+            <div class="col-md-offset-2 col-md-8">
+              <h2 class="section-title"> {{ info.eventName }}</h2>
+                <br>
+                <p>
+                    {{{info.about}}}
+                </p>
+            </div>
+            {{#if info.tickets.available }}
+                <div class="col-md-offset-3 col-md-8">
+                    <div id="{{{sympla.id}}}" height="auto"></div>
+                </div>
+            {{else }}
+                <div class="col-md-offset-4 col-md-8">
+                     <img src="assets/img/esgotado.png" alt="{{info.tickets.message}}" class="img-responsive">
+                </div>
+            {{/if}}
+        </div>
+        <div class="row promo">
+
+
+            <div class="col-md-3 col-sm-3 col-xs-6">
+                <span class="text-center">
+                    <img src="assets/img/networking.svg" alt="{{info.capacity}}" class="img-responsive">
+                <span> {{info.capacity}} </span>
+            </div>
+
+            <div class="col-md-3 col-sm-3 col-xs-6">
+                <span class="text-center">
+                    <img src="assets/img/calendar.svg" alt="{{ info.date }}" class="img-responsive">
+                <span> {{ info.date }} </span>
+            </div>
+
+            <div class="col-md-3 col-sm-3 col-xs-6">
+                <span class="text-center">
+                    <img src="assets/img/alarm-clock.svg" alt="Das {{ info.hour }}" class="img-responsive">
+                <span> {{ info.hour }} </span>
+            </div>
+
+            <div class="col-md-3 col-sm-3 col-xs-6">
+                <span class="text-center">
+                    <img src="assets/img/placeholder.svg" alt="{{info.place}}" class="img-responsive">
+                <span> {{info.place}} </span>
+            </div>
+
+
+        </div>
+    </div>
+</section>

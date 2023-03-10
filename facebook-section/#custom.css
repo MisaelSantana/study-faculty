@@ -1,0 +1,124 @@
+.body {
+    background-color: #EAEBEE;
+}
+
+.bloco1 {
+    background-color:#FFFFFF ;
+    border: solid transparent;
+    height: 35px;
+    width: 800px;
+    top: 20px;
+    font-size: 10px;
+    margin-left: 420px;
+    margin-block-end: 1px;
+    margin-block-start: 20px;
+}
+.bloco2 {
+    background-color:#FFFFFF ;
+    border: solid transparent;
+    width: 80px;
+    height: 340px;
+    top: 20px;
+    font-size: 10px;
+    margin-left: 420px;
+    float: left;
+}
+
+.blocoimg {
+    background-color:#FFFFFF ;
+    border: solid transparent;
+    width: 720px;
+    height: 340px;
+    margin-left: 500px;
+}
+
+.img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.text {
+    color:#A4A7AE ;
+}
+
+.blocoevento {
+    background-color:#FFFFFF ;
+    border: solid transparent;
+    font-size: 10px;
+    margin-left: 420px;
+    width: 800px;
+    height: 140px;
+    margin-block-end: 1px;
+}
+
+.box1 {
+    height: 115px;
+    width: 135px;
+    border-radius: 10px;
+    background-color:#4267B2 ;
+    text-align: left;
+    float: left;
+    color:#F1F4F9;
+    font-size: 10px;
+    margin-left: 20px;
+}
+.box2 {
+    height: 115px;
+    width: 135px;
+    border-radius: 10px;
+    background-color:#FCD872;
+    text-align: left;
+    float: left;
+    color:#F1F4F9;
+    font-size: 10px;
+    margin-left: 20px;
+}
+.box3 {
+    height: 115px;
+    width: 135px;
+    border-radius: 10px;
+    background-color:#F35369;
+    text-align: center;
+    float: left;
+    color:#F1F4F9;
+    font-size: 10px;
+    margin-left: 20px;
+}
+.box4 {
+    height: 115px;
+    width: 135px;
+    border-radius: 10px;
+    background-color:#BEC3C9;
+    text-align: left;
+    float: left;
+    color:#F1F4F9;
+    font-size: 10px;
+    margin-left: 20px;
+}
+
+.blocor {
+    background-color:#FFFFFF ;
+    border: solid transparent;
+    height: 205px;
+    width: 770px;
+    margin-left: 450px;
+    color: #4267B2;
+}
+
+.imgr {
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+    padding: 5px;
+}
+
+.blocoimgr {
+    background-color:#FFFFFF ;
+    border: solid transparent;
+    width: 35px;
+    height: 205px;
+    float: left;
+    margin-left: 420px;
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contato_main">Contato</string>
+    <string name="pedido_main">Pedido</string>
+    <string name="voltar_main">Voltar</string>
+</resources>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro</title>
+  <link rel="stylesheet" href="./css/reset.css">
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    
+  <section class="sectionBody">
+    <div class="divimg">
+      <img class="response" src="./img/myPhoto02.jpeg" alt="">
+    </div>
+
+
+    <section class="sectionform">
+      <div class="campsubscribe">
+        <h1>
+          Criar meu cadastro
+        </h1>
+        <h3>
+          Para acompanhar sua contratação de crédito você utilizará seu e-mail e CPF.
+        </h3>
+      </div>
+
+      <div class="campinputs">
+        <form>
+          <div class="local">
+            <div class="responsecamp">
+              <label for="">Nome</label><br><br>
+              <input placeholder="Insira seu nome completo" type="text">
+            </div>
+  
+            <div class="responsecamp">
+              <label for="">E-mail</label><br><br>
+              <input placeholder="Insira seu E-mail" type="text">
+            </div>
+          </div>
+
+          <div class="local">
+            <div class="responsecamp">
+              <label for="">CPF</label><br><br>
+              <input placeholder="Ex: xxx.xxx.xxx-xx" type="text">
+            </div>
+  
+            <div class="responsecamp">
+              <label for="">Data de Nascimneto</label><br><br>
+              <input placeholder="00/00/0000" type="text">
+            </div>
+          </div>
+
+         <div class="local">
+          <div class="responsecamp">
+            <label for="">Senha</label><br><br>
+            <input placeholder="Criar uma senha" type="password" 
+            id="fieldPassword">
+            <button class="myButton">Mostrar Senha</button>
+         </div>
+
+         <div class="responsecamp">
+          <label for="">Confirmar senha</label><br><br>
+          <input placeholder="Confirme a senha" type="password" id="retypePassword">
+         </div>
+         </div>
+
+          <div class="checkbox">
+            <input type="checkbox" name="" id="">
+            <label for="">Li e estou de acordo com a <strong>Política de Privacidade</strong> e a <strong>Política de Uso de Informações</strong>
+            </label>
+          </div>
+
+          <div class="buttoncreateaccount">
+            <button class="stylebutton" id="js-sendData" 
+            onclick="submitButton(e)">
+            Criar Conta
+          </button>
+          </div>
+          <div class="signin">
+            <h3>
+              Já possuo conta. <strong>Entrar agora.</strong>
+            </h3>
+          </div>
+        </div>
+      </form>
+    </section>
+  </section>
+
+
+  <script>
+
+    // js nao esta funcionando, vou precisar de ajuda para arrumar ele prof!
+
+    let myButton = document.querySelector('.myButton');
+    let retypePassword = document.querySelector('#retypePassword');
+    let fieldPassword = document.querySelector('#fieldPassword');
+    let submitButton = document.querySelector('#sendData');
+
+    console.log('elemento', fieldPassword.value);
+
+    submitButton.addEventListener('click', function(e) {
+      e.preventDefault();
+      if (fieldPassword.value === retypePassword.value) {
+        console.log('As senhas são idênticas!')
+      } else {
+        console.log('As senhas são diferentes!')
+      }
+    });
+
+    myButton.addEventListener('click', function(e) {
+      e.preventDefault();
+      fieldPassword.type = 'text';
+      console.log('cliquei no botao', e);
+    });
+  </script>
+
+</body>
+</html>

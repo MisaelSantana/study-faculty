@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Potatos</string>
+    <string name="contato_main">Contact</string>
+    <string name="pedido_main">Order</string>
+    <string name="voltar_main">Back</string>
+</resources>

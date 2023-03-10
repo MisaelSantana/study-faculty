@@ -1,0 +1,126 @@
+.body {
+    background-color: #F0F0F0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.box1 {
+    background-color: white;
+    text-align: left;
+    width: 630px;
+    height: 220px;
+    padding-left: 30px;
+    padding-top: 10px;
+    margin-left: 490px;
+    margin-top: 100px;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 1px 1px 3px 0px #000;
+}
+
+.texttitle {
+    color: #42ADA7;
+    font-size: 30px;
+}
+
+.texttitle2 {
+    color: #C3D662;
+    font-size: 20px;
+}
+
+.texttitle3 {
+    color: #BCC1C7;
+    font-size: 18px;
+}
+
+.box2 {
+    background-color: #2BB3B1;
+    text-align: left;
+    width: 315px;
+    height: 50px;
+    padding-left: 40px;
+    padding-top: 30px;
+    margin-left: 490px;
+    float: none;
+}
+
+.box22 {
+    background-color: #2BB3B1;
+    text-align: left;
+    position: absolute;
+    width: 80px;
+    height: 70px;
+    padding-left: 40px;
+    margin-left: 490px;
+}
+
+.box222 {
+    background-color: #2BB3B1;
+    text-align: left;
+    position: absolute;
+    left: 630px;
+    width: 213px;
+    height: 57px;
+    margin-left: -13px;
+    padding-top: 13px;
+}
+
+.box2222 {
+    background-color: #2BB3B1;
+    text-align: left;
+    position: absolute;
+    top: 480px;
+    width: 315px;
+    height: 150px;
+    padding-left: 40px;
+    padding-top: 30px;
+    margin-left: 490px;
+    border-radius: 0px 0px 0px 10px;
+}
+
+.text1 {
+    color: white;
+    font-size: 18px;
+}
+
+.dolar {
+    color: white;
+    font-size: 40px;
+}
+
+.text2 {
+    color: white;
+    font-size: 20px;
+    opacity: 0.5;
+}
+
+.text3 {
+    color: white;
+    font-size: 18px;
+}
+
+.botao {
+    width: 250px;
+    height: 50px;
+    background-color: #BFDF32;
+    color: #FEFFEC;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.box3 {
+    background-color: #4ABEBD;
+    text-align: left;
+    position: absolute;
+    left: 830px;
+    top: 330px;
+    width: 290px;
+    height: 300px;
+    padding-left: 40px;
+    padding-top: 30px;
+    border-radius: 0px 0px 10px 0px;
+}
+
+.textfinal {
+    font-size: 18px;
+    color: #AFFFFF;
+}

@@ -1,0 +1,127 @@
+{
+  "info": {
+    "eventName": "DevConf Pocket",
+    "year": 2018,
+    "title": "DevConf Pocket 2018 | Somos caipiras e gostamos de tecnologia!",
+    "about": "Acreditamos que o conhecimento é livre, e essa crença nos inspirou a organizar o DevConf! O DevConf Pocket é um evento de tecnologia sem fins lucrativos organizado pelo Opensanca, a maior comunidade ativa de tecnologia do interior de São Paulo. A proposta desta edição do evento é colocar em discussão temas atuais de tecnologia e desenvolvimento de software. Iremos promover apresentações com alto nível de conhecimento e relevância e, estimular a troca de experiência e network entre a comunidade de tecnologia do interior, que é caipira mas ama e se move por tecnologia! O evento irá acontecer no dia 08 de Dezembro de 2018, na Fatec em Araraquara/SP. Esperamos um público aproximado de 100 pessoas, entre estudantes, profissionais de tecnologia e entusiastas da região!",
+    "capacity": "200 Pessoas",
+    "date": "Sábado - 08/12",
+    "hour": "8:00 - 17:00",
+    "place": "Fatec Araraquara",
+    "address": "R. Precide São Martim, 126 - Jardim Santa Clara, Araraquara - SP, 14811-380",
+    "sponsor_link": "documento_de_patrocinio_devconf_2018.pdf",
+    "tickets": {
+      "available": true
+    }
+  },
+  "sympla": {
+    "id":"sympla-widget-398701",
+    "script":"https://www.sympla.com.br/js/sympla.widget-pt.js/398701"
+  },
+  "schedule": [
+    {
+      "time": "08:00 - 08:30",
+      "title": "Credenciamento"
+    },
+    {
+      "time": "08:30 - 09:00",
+      "title": "Abertura"
+    },
+    {
+      "time": "09:00 - 09:50",
+      "title": "Upstream e Downstream: priorize as prioridades!",
+      "details": "Vivemos em uma era em que os recursos tem se tornando cada dia mais escassos e o desperdício deve ser evitado a todo custo. Na produção de software essa máxima não é diferente. Ser eficaz e fazer a coisa certa é determinante para o sucesso de um projeto ou produto de software. E, ser eficiente para construí-lo da forma mais certa possível torna viável a entrega de software de maneira competitiva. Nesta palestra discutiremos como o fluxo Upstream e Downstream pode maximizar a entrega de valor de negócio de maneira eficaz e eficiente.",
+      "speaker": {
+        "name": "Deysiane Sande",
+        "company": "Serasa Experian",
+        "photo": "assets/img/2018_pocket_deysiane.jpeg",
+        "priority": 1,
+        "bio": "Agile Master na Serasa Experian. Dedica sua carreira ao gerenciamento de projetos voltados ao mindset ágil e a transformação da cultura de organizações. Mestre em Ciência da Computação com foco em Engenharia de Software, Qualidade e Métodos Ágeis.\nOrganizadora da comunidade Opensanca e organizadora do InterÁgil."
+      }
+    },
+    {
+      "time": "09:50 - 10:40",
+      "title": "Refatoração e uma vida saudável para o desenvolvedor e para a aplicação",
+      "details": "Todo o desenvolvedor já deve ter ouvido falar a palavra refatoração, mas em que isso consiste ou melhor, como isso pode gerar valor para o produto e para o desenvolvedor?\nCostumo pensar que um bom código é aquele que facilmente pode ser modificado adicionando ou removendo coisas, mas como refinar uma base de código ao longo de anos e ainda assim manter a clareza de seu comportamento para os desenvolvedores, uma das resposta é através da refatoração. É comum com a correria do dia a dia escrevermos código pontual para um problema, mesmo que este não tenha a melhor estética ou não esteja no lugar mais adequado, fato é, este código deve em algum momento ser refatorado, mas como eu identifico isso em uma base de código? Já ouviu falar em ‘bad smells’ ou em alguns nomes tais como ‘long method’, ‘large class’ ou ‘duplicated code’, estes são apenas alguns indicativos de que este código deve ser refatorado, mas podem existir muitos outros.\nEntendido isso como devo refatorar ou o que devo fazer? A proposta dessa talk é abordar um problema que todos os desenvolvedores enfrentam que é lidar com código quase sempre complexo, serão apresentados alguns problemas de design de código que podem motivar a refatoração, a importância de testes no processo de refatoração e algumas técnicas de refatoração que podem ser aplicadas ao seu código.\nEm resumo será revisitada a definição de refatoração, o uso e seu valor para o processo de desenvolvimento e manutenibilidade de um software.",
+      "speaker": {
+        "name": "Eduardo Cesar",
+        "company": "ZarpSystem",
+        "photo": "assets/img/2018_pocket_eduardo.jpeg",
+        "priority": 2,
+        "bio": "Atuo com desenvolvimento de aplicações web, onde me preocupo em compreender e melhorar todas as etapas que cercam um projeto de software, compartilhando, incentivando, e orientando no aprendizado de métodos ágeis e boas práticas de engenharia de software moderna."
+      }
+    },
+    {
+      "time": "10:40 - 11:00",
+      "title": "Coffee Break"
+    },
+    {
+      "time": "11:00 - 11:50",
+      "title": "Desmistificando a plataforma de stream (Microserviços, Kafka, Avro, Schema Registry)",
+      "details": "Nesta talk será aborto sobre um dos maiores desafios no mundo da tecnologia que é a produção, processamento e o consumo de um grande volume de dados em tempo real.\n\nA proposta é responder questões como: Resolver a produção, processamento e o consumo de dados de uma maneira assincrona; Garantir a consistência de dados; Aplicar a solução desse problema no mundo de microserviços, IOT, etc; Mostrar um exemplo de implementação;",
+      "speaker": {
+        "name": "Daniel Hatanaka",
+        "company": "Invillia",
+        "photo": "assets/img/2018_pocket_daniel_2.jpeg",
+        "priority": 3,
+        "bio": ""
+      }
+    },
+    {
+      "time": "11:50 - 14:00",
+      "title": "Almoço"
+    },
+    {
+      "time": "14:00 - 14:50",
+      "title": "Um Overview de Data Science",
+      "details": "Nesta palestra pretendo falar um pouco sobre data science segundo a minha experiência, os projetos da área nos quais trabalhei e pequenos exemplos de código python para realizar tarefas comuns aos projetos de Data Science, como visualização de dados e treinamento de modelos preditivos.",
+      "speaker": {
+        "name": "Mariana Lopes",
+        "company": "Descomplica",
+        "photo": "assets/img/2018_pocket_mariana.jpg",
+        "priority": 4,
+        "bio": "Mariana é Data Scientist na Descomplica ,mestre em Ciência da Computação na área de Inteligência Artificial, pela Universidade Federal de São Carlos (UFSCar) e bacharel em Ciência da Computação pela mesma instituição. Atua como Data Scientist no mercado desde 2015 e desde 2011 trabalha com Machine Learning, tendo desenvolvido seus trabalhos de conclusão de curso e mestrado nesta área."
+      }
+    },
+    {
+      "time": "14:50 - 15:40",
+      "title": "Reaproveitamento de Código com React-Redux",
+      "details": "A maior dificuldade que os desenvolvedores enfrentam hoje em dia é reaproveitar código. No universo Front-End a duplicação de código tende a fazer com que a aplicação vire uma bagunça. Nesta talk espero mostrar o funcionamento completo da arquitetura de duas camadas, a visualização (React) e estados (Redux). Com essa arquitetura a equipe de Front-End da Arquivei consegue ter uma flexibilidade incrível no contrato com o backend e na validação de protótipos com a equipe de produto e design. A minha proposta é conseguir aprofundar sobre essa arquitetura com a galera do OpenSanca, mostrando suas limitações e seus benefícios. <br/>Segue um artigo em que falo brevemente das inspirações da arquitetura (Store<>View). <br><a href='https://medium.com/@toruticas/iniciando-uma-aplica%C3%A7%C3%A3o-de-frontend-a-partir-de-um-monsterlito-bb7aca1476e0'>https://medium.com/@toruticas/iniciando-uma-aplica%C3%A7%C3%A3o-de-frontend-a-partir-de-um-monsterlito-bb7aca1476e0</a>",
+      "speaker": {
+        "name": "Rafael Mariano",
+        "company": "Arquivei",
+        "photo": "assets/img/2018_pocket_rafael.jpeg",
+        "priority": 5,
+        "bio": ""
+      }
+    },
+    {
+      "time": "15:40 - 16:00",
+      "title": "Coffee Break"
+    },
+    {
+      "time": "16:00 - 16:50",
+      "title": "Programando testes funcionais com Python + Selenium",
+      "details": "Overview de ferramentas, modelagem, processos, demonstração da criação a execução dos testes com python, behave, selenium e o que mais der tempo :)",
+      "speaker": {
+        "name": "Leticia Rostirola",
+        "company": "Arquivei",
+        "photo": "assets/img/2018_pocket_leticia.jpg",
+        "priority": 6,
+        "bio": "Bacharel em Ciencias de Computação pela USP São Carlos. Trabalha a mais de 5 anos na área de qualidade de Software e atualmente é líder do time de QA na Arquivei. Apaixonada por comunidades, atua em diversos grupos e eventos da cidade."
+      }
+    },
+    {
+      "time": "16:50 - 17:30",
+      "title": "Encerramento"
+    }
+  ],
+  "sponsors": {
+    "diamond": [
+      { "name": "Monitora", "link": "http://monitoratec.com.br/", "logo": "/assets/img/logos/monitora.png"}
+    ]
+  },
+  "partners": [
+    { "name": "Fatec Araraquara", "link": "http://www.fatecararaquara.com.br/", "logo": "http://www.odefensor.com.br/site/wp-content/uploads/2017/07/Vestibular-FATEC.jpg" }
+  ]
+}

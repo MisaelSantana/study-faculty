@@ -1,0 +1,26 @@
+.partners {
+  margin-bottom: 50px;
+}
+
+.partners__logo_box {
+  width: 160px;
+}
+
+
+.partner {
+  min-height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.partners__logos img {
+  width: 160px;
+}
+
+
+@media(max-width: 660px) {
+  .partners__logos img {
+      width: 100px;
+    }
+}

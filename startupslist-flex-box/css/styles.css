@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #EEEEEE;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    padding-top: 80px;
+    padding-left: 50px;
+    flex-wrap: wrap;
+    max-width: 100%;
+}
+
+.header h3 {
+    font-size: 50px;
+    opacity: 0.8;
+}
+
+.header h4 {
+    font-size: 30px;
+    opacity: 0.8; 
+}
+
+.containercorpo {
+    flex-wrap: wrap;
+    max-width: 90%;
+    margin-left: 40px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.boximg {
+    width: 290px;
+    padding: 10px;
+}
+
+.boximg:after {
+    width: 290px;
+    height: 200px;
+    padding: 10px;
+    background-color: red;
+}
+
+.img {
+    width: 290px;
+    height: 200px;
+    overflow: cover;
+}
+
+    /* PAGINA SAO PAULO */
+
+.containerbanner {
+    max-width: 100%;
+    background-image: url(./imgbanner/imgbanner2.jpg);
+    height: 500px;
+    opacity: 0.9;
+    background-position: center;
+    background-size: cover;
+    flex-wrap: wrap;
+}
+
+.sp {
+    color: #ffffff;
+    font-size: 30px;
+    padding: 1px;
+    flex-wrap: wrap;
+}
+
+.textsp {
+    color: white;
+    font-size: 20px;
+    flex-wrap: wrap;
+}
+
+.containercorposp {
+    border: solid 1px black;
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.boxtext {
+    width: 380px;
+    height: 260px;
+    padding: 10px;
+    margin: 10px;
+    flex-wrap: wrap;
+    display: flex;
+    background-color: #ffffff;
+}
+
+.textseila {
+    padding: 20px;
+    max-width: 55%;
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+    padding-top: 20px;
+}

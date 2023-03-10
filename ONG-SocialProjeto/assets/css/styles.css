@@ -1,0 +1,94 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  border: solid 1px blue;
+  max-width: 97%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  justify-content: space-between;
+}
+
+.logo {
+  border: solid 1px blue;
+  width: 110px;
+  display: flex;
+  justify-content: center;
+}
+
+.logo h3 {
+  color: blue;
+}
+
+.home {
+  border: solid 1px red;
+  display: flex;
+  color: blue;
+  max-width: 80%;
+  padding: 5px;
+}
+
+.containernews {
+  max-width: 97%;
+  border: solid 1px blue;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.title {
+  margin-left: 10px;
+  color: blue;
+  padding-left: 10px;
+}
+
+.news {
+  max-width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+.divnews {
+  border: solid 1px blue;
+  width: 22%;
+  height: 350px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.containercontact {
+  border: solid 1px blue;
+  display: flex;
+  max-width: 97%;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.containercontact h3 {
+  color: blue;
+  margin-left: 30px;
+}
+
+.footer {
+  border: solid 1px blue;
+  max-width: 97%;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.footer h3 {
+  color: blue;
+  margin: 15px;
+}
