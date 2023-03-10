@@ -1,44 +1,36 @@
-# Formulários:
-Source code:
+# Works and activities that are published on the web:
+Forms:
 - ./study-faculty/formularios/
 - https://exultant-value.surge.sh/
 
-# Web Rádio
-Source code:
+Web Radio:
 - ./study-faculty/webradio/
 - https://atividadewebradio.surge.sh/
 
-# Huddle:
-Source code:
+Huddle:
 - ./study-faculty/Huddle/
 - http://atividadehuddle.surge.sh/
 
-# Startup List:
-Source code:
+Startup List:
 - ./study-faculty/startupslist-flex-box/
 - http://atividadestartuplist.surge.sh/
 
-# Dropbox Flexbox:
-Source code:
+Dropbox Flexbox:
 - ./study-faculty/dropbox-flexbox/
 - http://atividadedropbox.surge.sh/
 
-# Play Store:
-Source code:
+Play Store:
 - ./study-faculty/Play-Store/
 - http://atividadeplaystore.surge.sh/
 
-# Novatec:
-Source code:
+Novatec:
 - ./study-faculty/novatec/
 - http://novatecexercise.surge.sh/
 
-# Newport:
-Source code:
+Newport:
 - ./study-faculty/newport/
 - http://tangy-control.surge.sh/#item-2
 
-# Fylo:
-Source code:
+Fylo:
 - ./study-faculty/gryphos/
 - http://misaeltest.surge.sh/
